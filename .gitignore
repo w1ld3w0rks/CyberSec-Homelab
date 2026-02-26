@@ -1,0 +1,17 @@
+*.env
+*.key
+*.pem
+secrets/
+passwords.txt
+*.pcap
+*.cap
+real-ips.txt
+*.nessus
+*.log
+raw-logs/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+*.swp
+*~
