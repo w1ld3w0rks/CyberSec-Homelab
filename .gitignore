@@ -1,3 +1,7 @@
+# Claude Code — local-only files
+CLAUDE.local.md
+.claude/
+
 *.env
 *.key
 *.pem
